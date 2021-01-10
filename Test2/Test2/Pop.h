@@ -8,3 +8,5 @@ using namespace std;
 void Text(string* a_Strings, int length);
 void BinToDec(int** a_Decimals, string* array_of_strings, int number_of_rows);
 void MatrixPrinter(int** matrix, int rows, int columns);
+void StringArrayPrinter(string* array, int length);
+void MatrixSort(int** matrix, int rows, int columns);
